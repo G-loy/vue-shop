@@ -114,7 +114,7 @@
       </span>
     </el-dialog>
 
-    //修改用户信息对话框
+    <!-- 修改用户信息对话框 -->
     <el-dialog
       title="修改信息"
       :visible.sync="editDialogVisible"
